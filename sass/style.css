@@ -278,6 +278,7 @@
   margin-top: 22px;
 }
 .container #wrapper2 .card4 {
+  width: 100%;
   display: flex;
   gap: 200px;
   padding-left: 140px;
